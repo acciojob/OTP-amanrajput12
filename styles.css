@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+
+.code{
+    width: 30px;
+}
+
+.page{
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 400px;
+}
+.code-container{
+		display:flex;
+	   justify-content:space-around;
+}
+#verification_heading{
+    display: flex;
+    justify-content: center;
+}
