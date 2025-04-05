@@ -14,7 +14,7 @@ inputs.forEach((data,i)=>{
 
     data.addEventListener("keydown",(e)=>{
         if(e.key=='Backspace'){
-            e.preventDefault()
+            // e.preventDefault()
         
             // console.log("keydown click",i)
            if(i>=0){
